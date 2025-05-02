@@ -1,6 +1,8 @@
-# Penny-Arcade-Game
+# Introduction
 
-The project "Penny Arcade: Laser Quest" is a comprehensive exploration into the integration of physical computing and interactive gameplay through the innovative use of laser technology and optical principles. It is designed as an engaging two-player game where participants use mirrors to direct laser beams towards a target, which moves based on the feedback from an ultrasonic sensor. The project incorporates a variety of technologies including Arduino microcontrollers for processing inputs and controlling the game mechanics, servo motors coupled with rack and pinion setups to adjust the laser's direction, and photoresistors to detect the laser's position. This setup is designed not just for entertainment but also as an educational tool, demonstrating the principles of light reflection, precision control, and real-time feedback systems.
+The proposed project, "Laser Quest" presents a two-player interactive game that leverages the principles of light and reflection to create a collaborative gaming experience. Utilizing Laser technology, the game challenges players to manipulate laser beams using mirrors to hit a moving target. The target's position varies based on the game score, requiring continuous adjustment and coordination between players. Both the players adjust mirrors to direct the beam towards the photoresistor-equipped target. The game mechanics are facilitated by a combination of Arduino microcontrollers, servo motors, rack and pinion, photoresistors, and an ultrasonic sensor showcasing an innovative application of mechatronics and optical principles in a recreational context.
+
+ <img width="450" alt="Laser Quest 2025-05-01 at 6 06 47 PM" src="https://github.com/user-attachments/assets/f2c89d8b-41b3-453f-834c-fd227895ec04" />
 
 ## Components Used: 
 - Arduino Mega: This is the main logic control unit of the project. This controller has the logic to start, carry out the logic and end the game. Each component mentioned below is connected to this controller.
@@ -17,6 +19,7 @@ The project "Penny Arcade: Laser Quest" is a comprehensive exploration into the 
 - Joystick Module
 
 ## Schematic Diagrams
-1. <img width="773" alt="Screenshot 2024-02-22 at 5 40 47 PM" src="https://github.com/Prajyot9501/Penny-Arcade-Game/assets/60104217/7d1ba0fd-06f2-41ac-bcef-977e7469f6e6">
-2. <img width="703" alt="Screenshot 2024-02-22 at 5 41 04 PM" src="https://github.com/Prajyot9501/Penny-Arcade-Game/assets/60104217/13691258-3682-48c4-a35d-ccf32691a99b">
+ <img width="450" alt="Screenshot 2025-05-01 at 6 06 47 PM" src="https://github.com/user-attachments/assets/514cc558-89db-433e-b5d4-955dd51a0f7e" />
+<img width="450" alt="Screenshot 2025-05-01 at 6 07 04 PM" src="https://github.com/user-attachments/assets/ac7e0a73-ba14-465b-a210-d0bb61c2a85f" />
+<img width="450" alt="Screenshot 2025-05-01 at 6 05 13 PM" src="https://github.com/user-attachments/assets/517246d5-f122-4de7-a4a2-e20d6a639adf" />
 
